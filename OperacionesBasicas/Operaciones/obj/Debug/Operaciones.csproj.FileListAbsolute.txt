@@ -1,0 +1,10 @@
+C:\Users\oscar\Documents\GitHub\Tareas\OperacionesBasicas\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\oscar\Documents\GitHub\Tareas\OperacionesBasicas\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\oscar\Documents\GitHub\Tareas\OperacionesBasicas\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\oscar\Documents\GitHub\Tareas\OperacionesBasicas\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\GitHub\Tareas\OperacionesBasicas\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\oscar\Documents\GitHub\Tareas\OperacionesBasicas\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\oscar\Documents\GitHub\Tareas\OperacionesBasicas\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.cache
+C:\Users\oscar\Documents\GitHub\Tareas\OperacionesBasicas\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Documents\GitHub\Tareas\OperacionesBasicas\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\oscar\Documents\GitHub\Tareas\OperacionesBasicas\Operaciones\obj\Debug\Operaciones.pdb
