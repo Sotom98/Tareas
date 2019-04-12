@@ -1,0 +1,11 @@
+C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.GuiaEjercicios.resources
+C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.Form2.resources
