@@ -9,3 +9,15 @@ C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.csproj.Genera
 C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.exe
 C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.pdb
 C:\Users\Lab3\Desktop\2019\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.Form2.resources
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.Form2.resources
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.GuiaEjercicios.resources
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\oscar\Documents\GitHub\Tareas\GuiaUno\Ejercicio1\obj\Debug\Ejercicio1.pdb

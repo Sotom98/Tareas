@@ -31,6 +31,7 @@
             this.archivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ejericicio1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ejercicio2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ejericico3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusStrip.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -39,9 +40,9 @@
             // 
             this.statusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel});
-            this.statusStrip.Location = new System.Drawing.Point(0, 431);
+            this.statusStrip.Location = new System.Drawing.Point(0, 348);
             this.statusStrip.Name = "statusStrip";
-            this.statusStrip.Size = new System.Drawing.Size(632, 22);
+            this.statusStrip.Size = new System.Drawing.Size(419, 22);
             this.statusStrip.TabIndex = 2;
             this.statusStrip.Text = "StatusStrip";
             // 
@@ -57,7 +58,7 @@
             this.archivoToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(632, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(419, 24);
             this.menuStrip1.TabIndex = 4;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -65,7 +66,8 @@
             // 
             this.archivoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.ejericicio1ToolStripMenuItem,
-            this.ejercicio2ToolStripMenuItem});
+            this.ejercicio2ToolStripMenuItem,
+            this.ejericico3ToolStripMenuItem});
             this.archivoToolStripMenuItem.Name = "archivoToolStripMenuItem";
             this.archivoToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
             this.archivoToolStripMenuItem.Text = "Archivo";
@@ -73,25 +75,34 @@
             // ejericicio1ToolStripMenuItem
             // 
             this.ejericicio1ToolStripMenuItem.Name = "ejericicio1ToolStripMenuItem";
-            this.ejericicio1ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.ejericicio1ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.ejericicio1ToolStripMenuItem.Text = "Ejercicio1";
             this.ejericicio1ToolStripMenuItem.Click += new System.EventHandler(this.ejericicio1ToolStripMenuItem_Click);
             // 
             // ejercicio2ToolStripMenuItem
             // 
             this.ejercicio2ToolStripMenuItem.Name = "ejercicio2ToolStripMenuItem";
-            this.ejercicio2ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.ejercicio2ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.ejercicio2ToolStripMenuItem.Text = "Ejercicio2";
             this.ejercicio2ToolStripMenuItem.Click += new System.EventHandler(this.ejercicio2ToolStripMenuItem_Click);
+            // 
+            // ejericico3ToolStripMenuItem
+            // 
+            this.ejericico3ToolStripMenuItem.Name = "ejericico3ToolStripMenuItem";
+            this.ejericico3ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ejericico3ToolStripMenuItem.Text = "Ejericico 3";
+            this.ejericico3ToolStripMenuItem.Click += new System.EventHandler(this.ejericico3ToolStripMenuItem_Click);
             // 
             // GuiaEjercicios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(632, 453);
+            this.ClientSize = new System.Drawing.Size(419, 370);
             this.Controls.Add(this.statusStrip);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "GuiaEjercicios";
             this.Text = "GuiaEjercicios";
             this.statusStrip.ResumeLayout(false);
@@ -111,6 +122,7 @@
         private System.Windows.Forms.ToolStripMenuItem archivoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ejericicio1ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ejercicio2ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ejericico3ToolStripMenuItem;
     }
 }
 

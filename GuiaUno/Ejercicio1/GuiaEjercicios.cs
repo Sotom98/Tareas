@@ -87,5 +87,11 @@ namespace Ejercicio1 {
             ej2.MdiParent = this;
             ej2.Show();
         }
+
+        private void ejericico3ToolStripMenuItem_Click(object sender, EventArgs e) {
+            Form3 ej3 = new Form3();
+            ej3.MdiParent = this;
+            ej3.Show();
+        }
     }
 }
