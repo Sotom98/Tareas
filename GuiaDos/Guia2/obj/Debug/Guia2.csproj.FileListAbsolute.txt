@@ -1,0 +1,7 @@
+C:\Users\oscar\Source\Repos\GuiaDos\Guia2\obj\Debug\Guia2.csprojAssemblyReference.cache
+C:\Users\oscar\Source\Repos\GuiaDos\Guia2\obj\Debug\Guia2.Ejercicio1.resources
+C:\Users\oscar\Source\Repos\GuiaDos\Guia2\obj\Debug\Guia2.Form1.resources
+C:\Users\oscar\Source\Repos\GuiaDos\Guia2\obj\Debug\Guia2.GuiaEjercicios.resources
+C:\Users\oscar\Source\Repos\GuiaDos\Guia2\obj\Debug\Guia2.Properties.Resources.resources
+C:\Users\oscar\Source\Repos\GuiaDos\Guia2\obj\Debug\Guia2.csproj.GenerateResource.cache
+C:\Users\oscar\Source\Repos\GuiaDos\Guia2\obj\Debug\Guia2.csproj.CoreCompileInputs.cache
