@@ -5,3 +5,16 @@ C:\Users\oscar\Source\Repos\GuiaDos\Guia2\obj\Debug\Guia2.GuiaEjercicios.resourc
 C:\Users\oscar\Source\Repos\GuiaDos\Guia2\obj\Debug\Guia2.Properties.Resources.resources
 C:\Users\oscar\Source\Repos\GuiaDos\Guia2\obj\Debug\Guia2.csproj.GenerateResource.cache
 C:\Users\oscar\Source\Repos\GuiaDos\Guia2\obj\Debug\Guia2.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\obj\Debug\Guia2.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\obj\Debug\Guia2.Ejercicio1.resources
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\obj\Debug\Guia2.GuiaEjercicios.resources
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\obj\Debug\Guia2.Properties.Resources.resources
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\obj\Debug\Guia2.csproj.GenerateResource.cache
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\obj\Debug\Guia2.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\bin\Debug\Guia2.exe.config
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\bin\Debug\Guia2.exe
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\bin\Debug\Guia2.pdb
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\obj\Debug\Guia2.exe
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\obj\Debug\Guia2.pdb
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\obj\Debug\Guia2.Ejercicio2.resources
+C:\Users\oscar\Desktop\Ánime y otros\Descargas\ZZ Instalación\Tareas-master\Tareas-master\GuiaDos\Guia2\obj\Debug\Guia2.Ejercicio3.resources

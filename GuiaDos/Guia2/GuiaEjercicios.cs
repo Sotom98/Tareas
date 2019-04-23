@@ -54,14 +54,6 @@ namespace Guia2 {
         private void PasteToolStripMenuItem_Click(object sender, EventArgs e) {
         }
 
-        private void ToolBarToolStripMenuItem_Click(object sender, EventArgs e) {
-            toolStrip.Visible = toolBarToolStripMenuItem.Checked;
-        }
-
-        private void StatusBarToolStripMenuItem_Click(object sender, EventArgs e) {
-            statusStrip.Visible = statusBarToolStripMenuItem.Checked;
-        }
-
         private void CascadeToolStripMenuItem_Click(object sender, EventArgs e) {
             LayoutMdi(MdiLayout.Cascade);
         }
@@ -85,7 +77,21 @@ namespace Guia2 {
         }
 
         private void ejericico1ToolStripMenuItem_Click(object sender, EventArgs e) {
+            Ejercicio1 ej1 = new Ejercicio1();
+            ej1.MdiParent = this;
+            ej1.Show();
+        }
 
+        private void ejercicio2ToolStripMenuItem_Click(object sender, EventArgs e) {
+            Ejercicio2 ej2 = new Ejercicio2();
+            ej2.MdiParent = this;
+            ej2.Show();
+        }
+
+        private void ejercicio3ToolStripMenuItem_Click(object sender, EventArgs e) {
+            Ejercicio3 ej3 = new Ejercicio3();
+            ej3.MdiParent = this;
+            ej3.Show();
         }
     }
 }
