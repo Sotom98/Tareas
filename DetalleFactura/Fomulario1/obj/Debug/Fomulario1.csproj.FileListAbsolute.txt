@@ -1,0 +1,21 @@
+E:\@M1fl3s!\Universidad\Ciclo 03 - 2019\PGR1\DetFactur\Formulario\DetalleFactura\Fomulario1\bin\Debug\Fomulario1.exe.config
+E:\@M1fl3s!\Universidad\Ciclo 03 - 2019\PGR1\DetFactur\Formulario\DetalleFactura\Fomulario1\bin\Debug\Fomulario1.exe
+E:\@M1fl3s!\Universidad\Ciclo 03 - 2019\PGR1\DetFactur\Formulario\DetalleFactura\Fomulario1\bin\Debug\Fomulario1.pdb
+E:\@M1fl3s!\Universidad\Ciclo 03 - 2019\PGR1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.csprojResolveAssemblyReference.cache
+E:\@M1fl3s!\Universidad\Ciclo 03 - 2019\PGR1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.Properties.Resources.resources
+E:\@M1fl3s!\Universidad\Ciclo 03 - 2019\PGR1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.csproj.GenerateResource.Cache
+E:\@M1fl3s!\Universidad\Ciclo 03 - 2019\PGR1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.exe
+E:\@M1fl3s!\Universidad\Ciclo 03 - 2019\PGR1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.pdb
+E:\@M1fl3s!\Universidad\Ciclo 03 - 2019\PGR1\DetFactur\Formulario\DetalleFactura\Fomulario1\bin\Debug\SQL.dll
+E:\@M1fl3s!\Universidad\Ciclo 03 - 2019\PGR1\DetFactur\Formulario\DetalleFactura\Fomulario1\bin\Debug\SQL.pdb
+E:\@M1fl3s!\Universidad\Ciclo 03 - 2019\PGR1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.Form1.resources
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\DetFactur\Formulario\DetalleFactura\Fomulario1\bin\Debug\Fomulario1.exe.config
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\DetFactur\Formulario\DetalleFactura\Fomulario1\bin\Debug\Fomulario1.exe
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\DetFactur\Formulario\DetalleFactura\Fomulario1\bin\Debug\Fomulario1.pdb
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.Form1.resources
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.Properties.Resources.resources
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.csproj.GenerateResource.cache
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.exe
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\DetFactur\Formulario\DetalleFactura\Fomulario1\obj\Debug\Fomulario1.pdb
